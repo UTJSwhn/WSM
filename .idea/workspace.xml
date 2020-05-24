@@ -1,7 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a148084-5437-463b-bc42-d2eca894f4b3" name="Default Changelist" comment="" />
+    <list default="true" id="8a148084-5437-463b-bc42-d2eca894f4b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/14415.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TXTParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/1156.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/1321.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/1459.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/1567.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/1858.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/1930.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/1937.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2078.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2123.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2192.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2225.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2226.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2334.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/236.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2453.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2502.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2518.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2529.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2559.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2594.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2596.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2684.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2771.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2772.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2781.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2806.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2819.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2853.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2876.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2906.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2908.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2909.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2911.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2912.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2918.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/2920.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/3156.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/3649.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/3684.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/3739.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/3766.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/3922.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4025.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4026.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4261.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4349.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4352.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4397.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4511.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4776.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4943.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/4961.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/5161.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/5167.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/543.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/5795.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/5827.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/6521.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/6522.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/6523.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/6524.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/6619.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/6686.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/6842.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/690.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7164.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7166.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7214.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7366.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7537.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7762.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7844.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7967.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7971.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1/7979.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/388-h/388-h.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/388-h/images/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5364-h/5364-h.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5364-h/5364-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5373-h/5373-h.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5373-h/5373-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5382-h/5382-h.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5382-h/5382-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5387-h/5387-h.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5396-h/5396-h.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5398-h/5398-h.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5399-h/5399-h.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disabled/5400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/1156-h/1156-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/1321-h/1321-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/1459-h/1459-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/1567-h/1567-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/1858-h/1858-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/1930-h/1930-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/1937-h/1937-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2078-h/2078-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2123-h/2123-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2192-h/2192-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2225-h/2225-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2226-h/2226-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2334-h/2334-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/236-h/236-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2453-h/2453-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2500-h/2500-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2502-h/2502-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2518-h/2518-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2529-h/2529-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2559-h/2559-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2594-h/2594-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2596-h/2596-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2684-h/2684-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2771-h/2771-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2772-h/2772-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2781-h/2781-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2806-h/2806-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2819-h/2819-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2853-h/2853-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2876-h/2876-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2906-h/2906-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2908-h/2908-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2909-h/2909-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2911-h/2911-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2912-h/2912-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2918-h/2918-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/2920-h/2920-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/3649-h/3649-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/3684-h/3684-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/3739-h/3739-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/3766-h/3766-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/3922-h/3922-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4015-h/4015-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4025-h/4025-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4026-h/4026-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4261-h/4261-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4349-h/4349-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4352-h/4352-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4397-h/4397-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4511-h/4511-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4776-h/4776-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/4943-h/4943-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/5167-h/5167-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/543-h/543-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/5827-h/5827-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/6521-h/6521-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/6522-h/6522-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/6523-h/6523-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/6524-h/6524-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/6686-h/6686-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/690-h/690-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/7214-h/7214-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/7366-h/7366-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/7762-h/7762-h.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data_1/7844-h/7844-h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/1156-h/1156-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/1156-h/1156-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/1321-h/1321-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/1321-h/1321-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/1459-h/1459-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/1459-h/1459-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/1567-h/1567-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/1567-h/1567-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/1858-h/1858-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/1858-h/1858-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/236-h/236-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/236-h/236-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/2529-h/2529-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/2529-h/2529-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/2772-h/2772-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/2772-h/2772-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/2906-h/2906-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/2906-h/2906-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/2908-h/2908-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/2908-h/2908-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/2909-h/2909-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/2909-h/2909-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/2911-h/2911-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/2911-h/2911-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/2912-h/2912-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/2912-h/2912-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/2918-h/2918-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/2918-h/2918-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/2920-h/2920-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/2920-h/2920-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/3684-h/3684-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/3684-h/3684-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/388-h/388-h.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/388-h/images/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/3922-h/3922-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/3922-h/3922-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/4015-h/4015-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/4015-h/4015-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/4025-h/4025-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/4025-h/4025-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/4026-h/4026-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/4026-h/4026-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/4349-h/4349-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/4349-h/4349-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/4943-h/4943-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/4943-h/4943-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/5167-h/5167-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/5167-h/5167-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/5364-h/5364-h.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/5373-h/5373-h.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/5382-h/5382-h.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/5387-h/5387-h.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/5396-h/5396-h.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/5398-h/5398-h.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/5399-h/5399-h.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/5400.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/6521-h/6521-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/6521-h/6521-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/6522-h/6522-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/6522-h/6522-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/6523-h/6523-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/6523-h/6523-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/6524-h/6524-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/6524-h/6524-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/6686-h/6686-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/6686-h/6686-h.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data_1/690-h/690-h.htm" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data_1/690-h/690-h.htm" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +216,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Lab\pythonProjects\WSM\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1bz6HMAUZ1cVMQ07n8oeetwHC1S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,8 +238,11 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -32,7 +250,51 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.HTMLParser">
+    <configuration name="HTMLParser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WSM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HTMLParser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TXTParser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WSM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Lab\pythonProjects\WSM\TXTParser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="unzip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WSM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,6 +319,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HTMLParser" />
+        <item itemvalue="Python.TXTParser" />
         <item itemvalue="Python.unzip" />
       </list>
     </recent_temporary>
@@ -71,32 +335,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589622485897</updated>
-      <workItem from="1589622487090" duration="3070000" />
+      <workItem from="1589622487090" duration="5361000" />
+      <workItem from="1589704674404" duration="36000" />
+      <workItem from="1590105540296" duration="49977000" />
+      <workItem from="1590197160759" duration="32274000" />
+      <workItem from="1590280713434" duration="4827000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1481" height="210" key="GridCell.Tab.0.bottom" timestamp="1589634855415">
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1590160961590">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589634855415" />
-    <state width="1481" height="210" key="GridCell.Tab.0.center" timestamp="1589634855415">
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1590160961590" />
+    <state x="498" y="130" key="FileChooserDialogImpl" timestamp="1589704708560">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589634855415" />
-    <state width="1481" height="210" key="GridCell.Tab.0.left" timestamp="1589634855415">
+    <state x="498" y="130" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1589704708560" />
+    <state width="1481" height="201" key="GridCell.Tab.0.bottom" timestamp="1590285581288">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589634855415" />
-    <state width="1481" height="210" key="GridCell.Tab.0.right" timestamp="1589634855415">
+    <state width="1481" height="201" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590285581288" />
+    <state width="1481" height="201" key="GridCell.Tab.0.center" timestamp="1590285581288">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589634855415" />
+    <state width="1481" height="201" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590285581288" />
+    <state width="1481" height="201" key="GridCell.Tab.0.left" timestamp="1590285581288">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="201" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590285581288" />
+    <state width="1481" height="201" key="GridCell.Tab.0.right" timestamp="1590285581288">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="201" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590285581288" />
+    <state x="390" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1590280716511">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="390" y="214" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1590280716511" />
+    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup" timestamp="1590235912879">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1590235912879" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WSM$HTMLParser.coverage" NAME="HTMLParser Coverage Results" MODIFIED="1590285544964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WSM$unzip.coverage" NAME="unzip Coverage Results" MODIFIED="1589633263182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WSM$parse.coverage" NAME="parse Coverage Results" MODIFIED="1590166064452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
